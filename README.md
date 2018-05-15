@@ -1,4 +1,4 @@
-# clapp.space
+# https://clap.sh
 A 👏 Website 👏 For 👏 Adding 👏 Claps 👏 To 👏 Your 👏 Text 👏
 
 ## Commands
