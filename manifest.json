@@ -1,0 +1,14 @@
+{
+  "name": "clapp.space",
+  "short_name": "clapp.space",
+  "description": "A 👏 Website 👏 For 👏 Adding 👏 Claps 👏 To 👏 Your 👏 Text 👏",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [{
+    "src": "/assets/icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
